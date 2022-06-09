@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="25" viewBox="0 0 43 25">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 100px;
+        fill: #3f3f3f;
+        text-anchor: middle;
+        font-family: "Open Sans";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Text" class="cls-1" x="20.999" y="71.912"><tspan x="20.999">“</tspan></text>
+</svg>
